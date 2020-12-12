@@ -4,7 +4,7 @@
 
 <br>
 
-## What about me ?
+## About me ?
 
 - 👀 In search of new projects
 - 🧠 Learning Docker 
