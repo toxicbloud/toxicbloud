@@ -12,7 +12,7 @@
 
 <br>
 
-## I'm interesting about: 
+## I'm interested about: 
 
 <br>
 
