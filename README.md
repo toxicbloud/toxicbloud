@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm toxicbloud aka Antonin, a french studient and bidouilleur !
+### I'm toxicbloud aka Antonin, a french student and bidouilleur !
 
 <br>
 
