@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**toxicbloud/toxicbloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm toxicbloud aka Antonin, a french studient and bidouilleur !
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What about me ?
+
+- 👀 In search of new projects
+- 🧠 Learning Docker 
+- 📺 Anime and Series watcher
+
+<br>
+
+## I'm interesting about: 
+
+<br>
+
+<div align="center">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+</div>
+
+<div align="center">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=0x394&show_icons=true&hide_border=true">
+</div>
+
+## Catch me here:
+
+- 📝 Email: antonin.rousseau55000@gmail.com
+- Twitter: [@RousseauAntonin](https://twitter.com/@RousseauAntonin)
