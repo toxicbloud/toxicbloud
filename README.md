@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=toxicbloud&show_icons=true&hide_border=true">
+  <img height="250" src="https://raw.githubusercontent.com/toxicbloud/github-stats/ced1d6bfbdfec106d7fd4bc8297a22b8d8c90302/generated/overview.svg">
   <img height="250" src="https://raw.githubusercontent.com/toxicbloud/github-stats/b41725eb7f5d5fef41f078e98f775970ccc290c2/generated/languages.svg">
 </div>
 
