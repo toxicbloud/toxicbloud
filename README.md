@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=0x394&show_icons=true&hide_border=true">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=toxicbloud&show_icons=true&hide_border=true">
 </div>
 
 ## Catch me here:
