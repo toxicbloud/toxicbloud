@@ -1,4 +1,4 @@
-### Hi there 👋💻
+### Hi there 👋💻🖥️ 👨‍💻 
 
 ### I'm toxicbloud aka Antonin, a french student and bidouilleur !
 
