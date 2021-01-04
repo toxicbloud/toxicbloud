@@ -29,6 +29,8 @@
 <div align="center">
   <img height="250" src="https://raw.githubusercontent.com/toxicbloud/github-stats/b20bc041e2b75617c546bcbf483c54f97da3a881/generated/overview.svg">
   <img height="250" src="https://raw.githubusercontent.com/toxicbloud/github-stats/b20bc041e2b75617c546bcbf483c54f97da3a881/generated/languages.svg">
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talluan&repo=LedsProject)](https://github.com/Talluan/LedsProject)
+
 </div>
 
 ## Catch me here:
