@@ -28,7 +28,7 @@
 
 <div align="center">
   <img height="250" src="https://github.com/toxicbloud/github-stats/blob/master/generated/overview.svg">
-  <img height="250" src="https://raw.githubusercontent.com/toxicbloud/github-stats/b20bc041e2b75617c546bcbf483c54f97da3a881/generated/languages.svg">
+  <img height="250" src="https://github.com/toxicbloud/github-stats/blob/master/generated/languages.svg">
 </div>
 
 ## Catch me here:
