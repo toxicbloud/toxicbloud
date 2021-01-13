@@ -3,7 +3,7 @@
 ### I'm toxicbloud aka Antonin, a french student and bidouilleur !
 
 <br>
-
+![](https://github.com/toxicbloud/github-stats/edit/master/generated/overview.svg)
 ## About me ?
 
 - 👀 In search of new projects
