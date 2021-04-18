@@ -35,3 +35,4 @@
 
 - 📝 Email: antonin.rousseau55000@gmail.com
 - Twitter: [@RousseauAntonin](https://twitter.com/@RousseauAntonin)
+- Ma Classe: [S2B](https://github.com/LesS2B/)
