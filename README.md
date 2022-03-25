@@ -9,6 +9,7 @@
 - 👀 In search of new projects
 - 🧠 Learning OpenGL and computer graphics related stuffs 
 - 📺 Anime and Series watcher
+- 🎹 classical music enthusiast
 
 <br>
 
