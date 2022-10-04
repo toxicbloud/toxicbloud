@@ -1,6 +1,9 @@
+<div align="center">
 ### Hi there 👋💻🖥️ 👨‍💻 
 
-### I'm toxicbloud aka Antonin, a french student and bidouilleur !
+<img height="250" src="https://github.com/toxicbloud/github-stats/blob/master/metrics.terminal.svg">
+
+</div>
 
 <br>
 
