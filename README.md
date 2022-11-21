@@ -12,7 +12,8 @@
 - 🧠 Learning OpenGL and computer graphics related stuffs 
 - 📺 Anime and Series watcher
 - 🎹 classical music enthusiast
-
+- 🥽 XR developer
+- 🧟 Making a Multi-player and fully moddable game in C++
 <br>
 
 ## I'm interested about: 
