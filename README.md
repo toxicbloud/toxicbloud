@@ -1,5 +1,5 @@
 <div align="center">
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/toxicbloud)
 <img height="250" src="https://github.com/toxicbloud/github-stats/blob/master/metrics.terminal.svg">
 
 </div>
