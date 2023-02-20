@@ -5,6 +5,7 @@
 </div>
 
 [![Finance mes bidouilles](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/antoninrousseaur/)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/mr75.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 <br>
 
