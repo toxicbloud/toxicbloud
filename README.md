@@ -15,6 +15,8 @@
 - 🧠 Learning OpenGL and computer graphics related stuffs 
 - 📺 Anime and Series watcher
 - 🎹 classical music enthusiast
+- 🛠️ Electronics tinkering, hardware hacking and repair
+- 🕰️ Watchmaker
 - 🥽 XR developer
 - 🧟 Making a Multi-player and fully moddable game in C++
 <br>
