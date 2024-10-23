@@ -48,6 +48,13 @@
   <img height="250" src="https://github.com/toxicbloud/github-stats/blob/master/generated/languages.svg">
 </div>
 
+## Some cool projects:
+
+
+<div align="center">
+  <img height="250" src="https://github.com/toxicbloud/ACL-2023-MazeOfMadness/raw/main/mom/src/main/resources/images/menus/logo.png">
+</div>
+
 ## Catch me here:
 
 - 📝 Email: antonin.rousseau55000@gmail.com
