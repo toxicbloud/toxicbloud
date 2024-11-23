@@ -52,7 +52,9 @@
 
 
 <div align="center">
-  <img height="250" src="https://github.com/toxicbloud/ACL-2023-MazeOfMadness/raw/main/mom/src/main/resources/images/menus/logo.png">
+  <a href="https://github.com/toxicbloud/ACL-2023-MazeOfMadness" target="_blank">
+    <img height="250" src="https://github.com/toxicbloud/ACL-2023-MazeOfMadness/raw/main/mom/src/main/resources/images/menus/logo.png">
+  </a>
 </div>
 
 ## Catch me here:
