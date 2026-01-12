@@ -57,6 +57,15 @@
   </a>
 </div>
 
+## 🤖 Hardware Access
+I actively contribute to projects involving:
+
+* **TurtleBot 4** ![ROS 2 Jazzy](https://img.shields.io/badge/ROS_2-Jazzy-blue?logo=ros&logoColor=white) ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-24.04-E94321?logo=ubuntu&logoColor=white)
+    *Expertise in mobile robotics migration and testing on the latest LTS stack.*
+
+* **Qualisys Oqus 700+** ![Motion Capture](https://img.shields.io/badge/Mocap-Qualisys-red) 
+    *High-precision tracking for trajectory and sensor fusion validation.*
+
 ## Catch me here:
 
 - 📝 Email: antonin.rousseau55000@gmail.com
